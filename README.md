@@ -1,2 +1,2 @@
-# STAT-28000
-Codes that I developed in STAT 28000 Optimization
+# Optimization algorithms
+Codes that I developed for optimization class
